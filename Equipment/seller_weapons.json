@@ -1,0 +1,36 @@
+{
+    "warrior_seller":
+    {
+        "sword":
+        [
+            {
+                "name": "magic sword",
+                "dmg": 10,
+                "durability": 10,
+                "gold_value": 15
+            },
+            {
+                "name": "dark sword",
+                "dmg": 12,
+                "durability": 8,
+                "gold_value": 17
+            }
+        ],
+        "stick":
+        [
+            {
+                "name": "magic stick",
+                "dmg": 2,
+                "durability": 3,
+                "gold_value": 5
+            },
+            {
+                "name": "dark stick",
+                "dmg": 4,
+                "durability": 2,
+                "gold_value": 7
+            }
+        ]
+    }
+    
+}

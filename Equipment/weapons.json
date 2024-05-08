@@ -1,0 +1,56 @@
+{
+    "warrior_weapons":
+    [
+        {
+            "name": "basic warrior sword",
+            "dmg": 5,
+            "gold_value": 10
+        },
+        {
+            "name": "medium warrior sword",
+            "dmg": 7,
+            "gold_value": 15
+        },
+        {
+            "name": "super warrior sword",
+            "dmg": 10,
+            "gold_value": 20
+        }
+    ],
+    "archer_weapons":
+    [
+        {
+            "name": "basic archer bow",
+            "dmg": 5,
+            "gold_value": 10
+        },
+        {
+            "name": "medium archer bow",
+            "dmg": 7,
+            "gold_value": 15
+        },
+        {
+            "name": "super archer bow",
+            "dmg": 10,
+            "gold_value": 20
+        }
+    ],
+    "mage_weapons":
+    [
+        {
+            "name": "basic mage rod",
+            "dmg": 5,
+            "gold_value": 10
+        },
+        {
+            "name": "medium mage rod",
+            "dmg": 7,
+            "gold_value": 15
+        },
+        {
+            "name": "super mage rod",
+            "dmg": 10,
+            "gold_value": 20
+        }
+    ]
+}

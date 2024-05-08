@@ -1,0 +1,63 @@
+{
+    "warrior_armors": 
+    [
+        {
+            "name": "basic warrior armor",
+            "durability": 5,
+            "gold_value": 10
+            
+        },
+        {
+            "name": "medium warrior armor",
+            "durability": 7,
+            "gold_value": 15
+            
+        },
+        {
+            "name": "super warrior armor",
+            "durability": 10,
+            "gold_value": 20
+            
+        }
+    ],
+    "archer_armors":
+    [
+        {
+            "name": "basic archer armor",
+            "durability": 5,
+            "gold_value": 10
+            
+        },
+        {
+            "name": "medium archer armor",
+            "durability": 7,
+            "gold_value": 15
+            
+        },
+        {
+            "name": "super archer armor",
+            "durability": 10,
+            "gold_value": 20
+        }
+    ],
+    "mage_armors":
+    [
+        {
+            "name": "basic mage armor",
+            "durability": 5,
+            "gold_value": 10
+            
+        },
+        {
+            "name": "medium mage armor",
+            "durability": 7,
+            "gold_value": 15
+            
+        },
+        {
+            "name": "super mage armor",
+            "durability": 10,
+            "gold_value": 20
+        }
+    ]
+}

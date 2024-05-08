@@ -1,0 +1,32 @@
+{
+    "warrior_seller":
+    {
+        "hauberk":
+        [
+            {
+                "name": "magic hauberk",
+                "durability": 10,
+                "gold_value": 15
+            },
+            {
+                "name": "dark hauberk",
+                "durability": 8,
+                "gold_value": 17
+            }
+        ],
+        "plate_armour":
+        [
+            {
+                "name": "magic plate_armour",
+                "durability": 3,
+                "gold_value": 5
+            },
+            {
+                "name": "dark plate_armour",
+                "durability": 2,
+                "gold_value": 7
+            }
+        ]
+    }
+    
+}
